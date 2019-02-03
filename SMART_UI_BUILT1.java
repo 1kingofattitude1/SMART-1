@@ -9,7 +9,7 @@ import javafx.application.Application;
 import javafx.stage.Stage;
 import java.awt.*;
 
-
+//Edited
 public class SMART_UI_BUILT1 extends Application
 {
 	@Override
