@@ -133,6 +133,22 @@ Hepatitis A , itching , 20
 Hepatitis A , weight loss , 20
 Hepatitis A , yellow skin , 20
 Hepatitis A , yellow eyes , 20
+Hepatitis B , tiredness , 25
+Hepatitis B , general aches ,25
+Hepatitis B , fever , 25 , 38C
+Hepatitis B , feeling unwell , 25 
+Hepatitis B , loss of appetite , 25
+Hepatitis B , jaundice , 25
+Hepatitis B , dark urine , 25
+Hepatitis B , pale grey-coloured poo , 25
+Hepatitis C , feeling tired , 50
+Hepatitis C , muscle aches , 50
+Hepatitis C , feeling sick , 50
+Hepatitis C , brain fog , 50
+Hepatitis C , mood swings , 50
+Hepatitis C , anxiety , 50
+Hepatitis C , bloating , 50
+Hepatitis C , itchy skin  , 50
 Common Cold , sore throat , 10
 Common Cold , runny nose , 10
 Common Cold , cough , 10
@@ -145,8 +161,34 @@ Diarrhoea , stomach cramps , 5
 Diarrhoea , nausea , 5
 Diarrhoea , vomiting , 5
 Diarrhoea , loss of appetite , 5
-
-
+flu , sudden fever , 3 , 38C 
+flu , chesty cough , NA
+flu , tiredness , 3 , NA
+flu , weakness , 3 , NA
+flu , chills , 3 , NA
+flu , aching muscles , 3 , NA
+flu , nausea  , 3 , NA
+flu , vomiting , 3 , NA
+flu , runny or blocked nose , 3 , NA
+flu , sneezing , 3 , NA
+flu , loss of appetite , 3 , NA
+flu , difficulty sleeping , 3 , NA
+flu , diarrhoea , 3 , NA
+flu , headache , 3 , NA
+food poisoning , feeling sick , 2
+food poisoning , vomiting , 2
+food poisoning , diarrhoea, 2
+food poisoning , stomach cramps  , 2
+food poisoning , weakness , 2
+food poisoning , loss of appetite , 2
+food poisoning , aching muscles , 2
+food poisoning , chills , 2
+gum disease , red and swollen gums , 7
+gum disease , bleeding gums , 7
+gum disease , bad breath , 7 
+gum disease , unpleasant taste in your mouth , 7
+gum disease , loose teeth , 7
+gum disease , gum abscesses , 7
 
 
 
