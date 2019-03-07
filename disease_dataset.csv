@@ -22,6 +22,9 @@ Cholera,acute_diarrohoea,3,
 Cholera,rice_watery_stool,3,
 Cholera,muscular_cramps,3,
 Cholera,dehydration,3,
+Cholera,rapid_pulse,3,
+Cholera,abdominal_cramps,3,
+Cholera,nausea,3,
 Malaria,headache,12,
 Malaria,nausea,12,
 Malaria,muscular_pain,12,
@@ -294,7 +297,7 @@ Dystonia,twisted_posture_a_foot,2,
 Dystonia,leg_or_arm_turning_inwards,2,
 Dystonia,body_parts_jerking_rapidly,1,
 Lupus,Fatigue,10,
-Lupus,Joint pain,10,
+Lupus,Joint_pain,10,
 Lupus,Rashes,10,
 Malnutrition,feeling_tired,7,
 Malnutrition,delayed_wound_healing,30,
@@ -303,9 +306,25 @@ Malnutrition,frequently_getting_infections,18,
 Malnutrition,depression,7,
 Malnutrition,difficulty_keeping_warm,2,
 Bird_Flu,fever,4,38C
-Bird_Flu,Cough
-Bird_Flu,
-Bird_Flu,
-Bird_Flu,
-Bird_Flu,
-Bird_Flu,
+Bird_Flu,cough,2,NA
+Bird_Flu,sore throat,3,NA
+Bird_Flu,diarrhea,4,NA
+Bird_Flu,vomiting,4,NA
+Bird_Flu,abdominal_pain,5,NA
+Bird_Flu,chest_pain,2,NA
+Bird_Flu,bleeding_from_the_nose_and_gums,2,NA
+Bird_Flu,headache,6,NA
+Bacterial_Pneumonia,High_fever,7,
+Bacterial_Pneumonia,Chills,5,
+Bacterial_Pneumonia,Rapid_breathing,3,
+Bacterial_Pneumonia,Shortness_of_breath,NA,
+Bacterial_Pneumonia,Exhaustion,3,
+Bacterial_Pneumonia,Loss_of_appetite,6,
+Ebola,raised_rash,13,
+Ebola,severe_weight_loss,15,
+Ebola,bleeding_from_eyes,11,
+Ebola,bruising,10,
+Ebola,fatigue,7,
+Ebola,Chest pain,10,
+Ebola,sore throat,11,
+Ebola,cough,10,
