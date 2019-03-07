@@ -161,7 +161,7 @@ Diarrhoea,nausea,5,
 Diarrhoea,vomiting,5,
 Diarrhoea,loss_of_appetite,5,
 flu,sudden_fever,3,38C
-flu,chesty_cough,NA
+flu,chesty_cough,3,NA
 flu,tiredness,3,NA
 flu,weakness,3,NA
 flu,chills,3,NA
