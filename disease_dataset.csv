@@ -441,7 +441,7 @@ Viral,Sudden_onset,3,
 Viral,severe_headache,3,
 Viral,fever,4,
 Viral,nausea,4,
-Viral,behavioral_changes
+Viral,behavioral_changes,4,
 Viral,vomiting,2,5,
 Viral,stiff_neck,3,
 Head_Lice_(Parasite),itching,4
