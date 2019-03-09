@@ -444,7 +444,7 @@ Viral,nausea,4,
 Viral,behavioral_changes,4,
 Viral,vomiting,2,
 Viral,stiff_neck,3,
-Head_Lice_(Parasite),itching,4
-Head_Lice_(Parasite),scratching_of_scalp,5
-Head_Lice_(Parasite),presence_of_live_lice,7
-Head_Lice_(Parasite),pinpoint_sized_white_eggs,10
+Head_Lice_(Parasite),itching,4,
+Head_Lice_(Parasite),scratching_of_scalp,5,
+Head_Lice_(Parasite),presence_of_live_lice,7,
+Head_Lice_(Parasite),pinpoint_sized_white_eggs,10,
