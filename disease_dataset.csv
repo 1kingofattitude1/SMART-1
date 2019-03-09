@@ -428,4 +428,23 @@ Severe_acute_respiratory_syndrome_(SARS),confusion,3,
 Severe_acute_respiratory_syndrome_(SARS),rash,7,
 Severe_acute_respiratory_syndrome_(SARS),body_aches,7,
 Severe_acute_respiratory_syndrome_(SARS),sore_throat,6,
-
+Haemophilus_influenzae_b_(Hib),stiff_neck,,
+Haemophilus_influenzae_b_(Hib),headache,,
+Haemophilus_influenzae_b_(Hib),vomiting,,
+Haemophilus_influenzae_b_(Hib),loss_of_alertness,,
+Pneumococcal,fever,,
+Pneumococcal,chills,,
+Pneumococcal,cough,,
+Pneumococcal,rapid breathing,,
+Pneumococcal,chest pain,,
+Viral,Sudden_onset,3,
+Viral,severe_headache,3,
+Viral,fever,4,
+Viral,nausea,4,
+Viral,behavioral_changes
+Viral,vomiting,2,5,
+Viral,stiff_neck,3,
+Head_Lice_(Parasite),itching,4
+Head_Lice_(Parasite),scratching_of_scalp,5
+Head_Lice_(Parasite),presence_of_live_lice,7
+Head_Lice_(Parasite),pinpoint_sized_white_eggs,10
