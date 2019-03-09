@@ -387,15 +387,15 @@ Norovirus,aching limbs,7,
 Rotavirus,nausea,2,
 Rotavirus,diarrhoea,2,
 Rotavirus,vomiting,2,
-Shigella,bloody_diarrhoea,3
-Shigella,fever,4
-Shigella,stomach_pain,3
-Influenza,Sudden_onset_of_fever,2
-Influenza,cough,2
-Influenza,sore_throat,2
-Influenza,muscular_aches,2
-Influenza,headache,2
-Streptococcal_sore_throat,headache,3
-Streptococcal_sore_throat,vomiting,3
-Streptococcal_sore_throat,sore throat,3
-Streptococcal_sore_throat,Rheumatic_fever,3
+Shigella,bloody_diarrhoea,3,
+Shigella,fever,4,
+Shigella,stomach_pain,3,
+Influenza,Sudden_onset_of_fever,2,
+Influenza,cough,2,
+Influenza,sore_throat,2,
+Influenza,muscular_aches,2,
+Influenza,headache,2,
+Streptococcal_sore_throat,headache,3,
+Streptococcal_sore_throat,vomiting,3,
+Streptococcal_sore_throat,sore throat,3,
+Streptococcal_sore_throat,Rheumatic_fever,3,
