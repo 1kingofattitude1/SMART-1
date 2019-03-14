@@ -498,3 +498,24 @@ Atopic_eczema,yellow_crust_on_the_skin_surface,15,
 Atopic_eczema,skin_becoming_swollen_and_sore,15,
 Atopic_eczema,high_temperature,10,
 Atopic_eczema,yellowish-white_spots_appearing_in_the_eczema,15,
+Catarrh,constant_need_to_clear_your_throat,7,
+Catarrh,blocked_or_stuffy_nose,7,
+Catarrh,runny_nose,7,
+Catarrh,feeling_of_mucus_running_down,8,
+Catarrh,persistent_cough,7
+Catarrh,facial_pain,5,
+Catarrh,headache,3,
+Catarrh,reduced_sense,12,
+Catarrh,temporary_hearing_loss,15,
+Cellulitis,fever,5,38C
+Cellulitis,vigorous shaking,5,NA
+Cellulitis,nausea,4,NA
+Cellulitis,vomiting,3,NA
+Cellulitis,dizziness,5,NA
+Cellulitis,confusion,6,NA
+Cirrhosis,tiredness,7,
+Cirrhosis,shivering_attacks,3,
+Cirrhosis,hair_loss,15,
+Cirrhosis,weight_loss,15,
+Cirrhosis,swelling_in_your_abdomen,7,
+Cirrhosis,swelling_in_the_legs,15,
